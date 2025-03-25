@@ -33,11 +33,11 @@ The objective of this project is to:
 
 ---
 
-## Developed by 
-**Absar Raashid**
-
 ## **Dataset**
 
 The project uses the [parallel-corpus.xlsx] dataset containing parallel English and Urdu sentences for training, validation, and testing.
 
 ---
+
+## Developed by 
+**Absar Raashid**
